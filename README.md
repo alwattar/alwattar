@@ -11,11 +11,9 @@
 
 - 📫 How to reach me **alwattar@live.com**
 
-<div style='display:flex;'>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alwattar&show_icons=true&locale=en" alt="alwattar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alwattar&" alt="alwattar" /></p>
-</div> 
 
 <!--
 **alwattar/alwattar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
